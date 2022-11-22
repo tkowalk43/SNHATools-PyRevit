@@ -1,0 +1,14 @@
+{
+  "builtin": "False",
+  "default_enabled": "True",
+  "type": "extension",
+  "rocket_mode_compatible": "False",
+  "name": "SNHA Tools",
+  "description": "SNHA in-house Revit tools",
+  "author": "Jared Holloway",
+  "author_profile": "https://github.com/SNHAjared",
+  "url": "https://github.com/SNHAjared/SNHA-Tools.git",
+  "website": "https://snh-a.com",
+  "image": "",
+  "dependencies": []
+}
